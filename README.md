@@ -1,1 +1,1 @@
-# CompArith-2016
+# CGU Computer Arithmetics Course (2016 Spring)
