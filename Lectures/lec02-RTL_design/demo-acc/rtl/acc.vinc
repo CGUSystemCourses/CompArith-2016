@@ -1,0 +1,24 @@
+`ifndef ACC_VINC
+`define ACC_VINC
+
+`define DATA_WIDTH	32
+
+`endif
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
